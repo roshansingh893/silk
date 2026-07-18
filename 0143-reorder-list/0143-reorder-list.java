@@ -40,7 +40,7 @@ class Solution {
 
         ListNode st = head;
 
-        while(st != null && rev != null){
+        while( rev != null){
             ListNode next1 = st.next;
             ListNode next2 = rev.next;
 
