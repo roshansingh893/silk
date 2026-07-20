@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/roshansingh893/silk/tree/main/0155-min-stack/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshansingh893/silk/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/roshansingh893/silk/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/roshansingh893/silk/tree/main/0155-min-stack/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
