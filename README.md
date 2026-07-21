@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0020-valid-parentheses/) | Easy |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/roshansingh893/silk/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
