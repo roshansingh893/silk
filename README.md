@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -130,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
