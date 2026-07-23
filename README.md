@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/roshansingh893/silk/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/roshansingh893/silk/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/roshansingh893/silk/tree/main/0206-reverse-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshansingh893/silk/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/roshansingh893/silk/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/roshansingh893/silk/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/roshansingh893/silk/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -154,4 +157,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/roshansingh893/silk/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
