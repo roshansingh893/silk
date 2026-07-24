@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/roshansingh893/silk/tree/main/0875-koko-eating-bananas/) | Medium |
 ## String
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
+| [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Greedy
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/roshansingh893/silk/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
+| [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -158,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/roshansingh893/silk/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
