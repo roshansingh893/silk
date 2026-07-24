@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
+| [0649-dota2-senate](https://github.com/roshansingh893/silk/tree/main/0649-dota2-senate/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
+| [0649-dota2-senate](https://github.com/roshansingh893/silk/tree/main/0649-dota2-senate/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/roshansingh893/silk/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
+| [0649-dota2-senate](https://github.com/roshansingh893/silk/tree/main/0649-dota2-senate/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
