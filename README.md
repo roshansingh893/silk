@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/roshansingh893/silk/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1046-last-stone-weight](https://github.com/roshansingh893/silk/tree/main/1046-last-stone-weight/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshansingh893/silk/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [1046-last-stone-weight](https://github.com/roshansingh893/silk/tree/main/1046-last-stone-weight/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
