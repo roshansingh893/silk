@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/roshansingh893/silk/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/roshansingh893/silk/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/roshansingh893/silk/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/roshansingh893/silk/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshansingh893/silk/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/roshansingh893/silk/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Quickselect
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,4 +320,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
