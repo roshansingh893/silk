@@ -17,8 +17,7 @@ class Solution {
 
         for(int i = 0; i < isConnected.length; i++){
             if(isConnected[curr][i] == 1 && !vis[i]){
-                vis[i] = true; 
-                dfs(isConnected , curr , vis);
+                dfs(isConnected , i , vis);
             }
         }
 
