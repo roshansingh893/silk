@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/roshansingh893/silk/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshansingh893/silk/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshansingh893/silk/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshansingh893/silk/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/roshansingh893/silk/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshansingh893/silk/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshansingh893/silk/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/roshansingh893/silk/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/roshansingh893/silk/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/roshansingh893/silk/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/roshansingh893/silk/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roshansingh893/silk/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/roshansingh893/silk/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/roshansingh893/silk/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/roshansingh893/silk/tree/main/0684-redundant-connection/) | Medium |
@@ -332,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
