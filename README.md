@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/roshansingh893/silk/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/roshansingh893/silk/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/roshansingh893/silk/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/roshansingh893/silk/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roshansingh893/silk/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roshansingh893/silk/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/roshansingh893/silk/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/roshansingh893/silk/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/roshansingh893/silk/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/roshansingh893/silk/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshansingh893/silk/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/roshansingh893/silk/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/roshansingh893/silk/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/roshansingh893/silk/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/roshansingh893/silk/tree/main/0684-redundant-connection/) | Medium |
 ## Matrix
@@ -348,4 +351,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/roshansingh893/silk/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/roshansingh893/silk/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
