@@ -21,7 +21,7 @@ class Solution {
         int[] dist = new int[n + 1];
         Arrays.fill(dist, Integer.MAX_VALUE);
         
-        dist[k] = 0; // source node
+        dist[k] = 0; 
         
         
                 PriorityQueue<int[]> pq = new PriorityQueue<>(
@@ -31,15 +31,13 @@ class Solution {
         pq.offer(new int[]{0, k}); // start from source
         
         
-        // Step 4: Dijkstra
         while (!pq.isEmpty()) {
             
             int[] current = pq.poll();
             int currTime = current[0];
             int node = current[1];
+             if (currTime > dist[node]) continue;
             
-            
-            // Explore neighbors
             for (int[] neighbor : graph.get(node)) {
                 
                 int nextNode = neighbor[0];
@@ -47,25 +45,19 @@ class Solution {
                 
                 int newTime = currTime + weight;
                 
-                
-                // Relaxation step
+            
                 if (newTime < dist[nextNode]) {
                     
                     dist[nextNode] = newTime;
                     
-                    // Push updated state into PQ
                     pq.offer(new int[]{newTime, nextNode});
                 }
             }
         }
-        
-        
-        // Step 5: Find maximum time
         int maxTime = 0;
         
         for (int i = 1; i <= n; i++) {
             
-            // If any node is unreachable
             if (dist[i] == Integer.MAX_VALUE) {
                 return -1;
             }
