@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0127-word-ladder](https://github.com/roshansingh893/silk/tree/main/0127-word-ladder/) | Hard |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshansingh893/silk/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshansingh893/silk/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/roshansingh893/silk/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/roshansingh893/silk/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/roshansingh893/silk/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/roshansingh893/silk/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/roshansingh893/silk/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/roshansingh893/silk/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/roshansingh893/silk/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/roshansingh893/silk/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/roshansingh893/silk/tree/main/0199-binary-tree-right-side-view/) | Medium |
