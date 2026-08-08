@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/roshansingh893/silk/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/roshansingh893/silk/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshansingh893/silk/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/roshansingh893/silk/tree/main/0202-happy-number/) | Easy |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/roshansingh893/silk/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/roshansingh893/silk/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshansingh893/silk/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/roshansingh893/silk/tree/main/0198-house-robber/) | Medium |
@@ -521,4 +523,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/roshansingh893/silk/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
