@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/roshansingh893/silk/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/roshansingh893/silk/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/roshansingh893/silk/tree/main/0994-rotting-oranges/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/roshansingh893/silk/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/roshansingh893/silk/tree/main/1046-last-stone-weight/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/roshansingh893/silk/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/roshansingh893/silk/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
