@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/roshansingh893/silk/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/roshansingh893/silk/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/roshansingh893/silk/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshansingh893/silk/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0355-design-twitter](https://github.com/roshansingh893/silk/tree/main/0355-design-twitter/) | Medium |
 | [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshansingh893/silk/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -391,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
