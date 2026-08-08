@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/roshansingh893/silk/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/roshansingh893/silk/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/roshansingh893/silk/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
 | [0355-design-twitter](https://github.com/roshansingh893/silk/tree/main/0355-design-twitter/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/roshansingh893/silk/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -397,4 +399,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/roshansingh893/silk/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
