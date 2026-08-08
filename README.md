@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/roshansingh893/silk/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshansingh893/silk/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshansingh893/silk/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/roshansingh893/silk/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/roshansingh893/silk/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/roshansingh893/silk/tree/main/0355-design-twitter/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/roshansingh893/silk/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshansingh893/silk/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/roshansingh893/silk/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/roshansingh893/silk/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -220,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
