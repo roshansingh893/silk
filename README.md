@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshansingh893/silk/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/roshansingh893/silk/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/roshansingh893/silk/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshansingh893/silk/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/roshansingh893/silk/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/roshansingh893/silk/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/roshansingh893/silk/tree/main/0015-3sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/roshansingh893/silk/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshansingh893/silk/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshansingh893/silk/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/roshansingh893/silk/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshansingh893/silk/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshansingh893/silk/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
