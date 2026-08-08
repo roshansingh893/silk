@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/roshansingh893/silk/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshansingh893/silk/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshansingh893/silk/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/roshansingh893/silk/tree/main/0015-3sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshansingh893/silk/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshansingh893/silk/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
