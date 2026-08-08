@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/roshansingh893/silk/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/roshansingh893/silk/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/roshansingh893/silk/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/roshansingh893/silk/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/roshansingh893/silk/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/roshansingh893/silk/tree/main/0355-design-twitter/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/roshansingh893/silk/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -202,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/roshansingh893/silk/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/roshansingh893/silk/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/roshansingh893/silk/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/roshansingh893/silk/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -341,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/roshansingh893/silk/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -363,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -438,4 +445,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
