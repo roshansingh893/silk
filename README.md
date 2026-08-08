@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/roshansingh893/silk/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/roshansingh893/silk/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0496-next-greater-element-i](https://github.com/roshansingh893/silk/tree/main/0496-next-greater-element-i/) | Easy |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/roshansingh893/silk/tree/main/0649-dota2-senate/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/roshansingh893/silk/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/roshansingh893/silk/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshansingh893/silk/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/roshansingh893/silk/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/roshansingh893/silk/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/roshansingh893/silk/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/roshansingh893/silk/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshansingh893/silk/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshansingh893/silk/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/roshansingh893/silk/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/roshansingh893/silk/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/roshansingh893/silk/tree/main/0724-find-pivot-index/) | Easy |
 ## Sliding Window
