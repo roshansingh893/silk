@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/roshansingh893/silk/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshansingh893/silk/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/roshansingh893/silk/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/roshansingh893/silk/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/roshansingh893/silk/tree/main/0148-sort-list/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/roshansingh893/silk/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/roshansingh893/silk/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/roshansingh893/silk/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/roshansingh893/silk/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/roshansingh893/silk/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/roshansingh893/silk/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/roshansingh893/silk/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshansingh893/silk/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshansingh893/silk/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
@@ -460,4 +463,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshansingh893/silk/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/roshansingh893/silk/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/roshansingh893/silk/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
