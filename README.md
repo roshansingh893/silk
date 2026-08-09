@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/roshansingh893/silk/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/roshansingh893/silk/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0072-edit-distance](https://github.com/roshansingh893/silk/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/roshansingh893/silk/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/roshansingh893/silk/tree/main/0127-word-ladder/) | Hard |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/roshansingh893/silk/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/roshansingh893/silk/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/roshansingh893/silk/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshansingh893/silk/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshansingh893/silk/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshansingh893/silk/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
