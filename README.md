@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/roshansingh893/silk/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/roshansingh893/silk/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/roshansingh893/silk/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/roshansingh893/silk/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/roshansingh893/silk/tree/main/0649-dota2-senate/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/roshansingh893/silk/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/roshansingh893/silk/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/roshansingh893/silk/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/roshansingh893/silk/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/roshansingh893/silk/tree/main/0542-01-matrix/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/roshansingh893/silk/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshansingh893/silk/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
