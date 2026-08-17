@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/roshansingh893/silk/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/roshansingh893/silk/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/roshansingh893/silk/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/roshansingh893/silk/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/roshansingh893/silk/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/roshansingh893/silk/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/roshansingh893/silk/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/roshansingh893/silk/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/roshansingh893/silk/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/roshansingh893/silk/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/roshansingh893/silk/tree/main/0649-dota2-senate/) | Medium |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/roshansingh893/silk/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/roshansingh893/silk/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/roshansingh893/silk/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/roshansingh893/silk/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/roshansingh893/silk/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Design
@@ -315,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/roshansingh893/silk/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/roshansingh893/silk/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/roshansingh893/silk/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshansingh893/silk/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/roshansingh893/silk/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -415,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/roshansingh893/silk/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/roshansingh893/silk/tree/main/0743-network-delay-time/) | Medium |
 | [0752-open-the-lock](https://github.com/roshansingh893/silk/tree/main/0752-open-the-lock/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshansingh893/silk/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -467,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/roshansingh893/silk/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/roshansingh893/silk/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/roshansingh893/silk/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/roshansingh893/silk/tree/main/0721-accounts-merge/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/roshansingh893/silk/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/roshansingh893/silk/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
