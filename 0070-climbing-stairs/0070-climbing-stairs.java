@@ -9,7 +9,7 @@ class Solution {
     }
 
     private int solve(int n) {
-        if (n <= 1) {
+        if (n <=1) {
             return 1;
         }
 
