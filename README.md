@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/roshansingh893/silk/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/roshansingh893/silk/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/roshansingh893/silk/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/roshansingh893/silk/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshansingh893/silk/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/roshansingh893/silk/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/roshansingh893/silk/tree/main/0268-missing-number/) | Easy |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshansingh893/silk/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/roshansingh893/silk/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/roshansingh893/silk/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/roshansingh893/silk/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/roshansingh893/silk/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/roshansingh893/silk/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/roshansingh893/silk/tree/main/0322-coin-change/) | Medium |
