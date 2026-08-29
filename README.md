@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/roshansingh893/silk/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/roshansingh893/silk/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1025-divisor-game](https://github.com/roshansingh893/silk/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/roshansingh893/silk/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/roshansingh893/silk/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Stack
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshansingh893/silk/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshansingh893/silk/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1025-divisor-game](https://github.com/roshansingh893/silk/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/roshansingh893/silk/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/roshansingh893/silk/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Backtracking
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/roshansingh893/silk/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/roshansingh893/silk/tree/main/1025-divisor-game/) | Easy |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,4 +638,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/roshansingh893/silk/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/roshansingh893/silk/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/roshansingh893/silk/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
