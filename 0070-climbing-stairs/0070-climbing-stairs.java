@@ -1,18 +1,18 @@
 class Solution {
     public int climbStairs(int n) {
         int[] dp = new int[n + 1];
-        Arrays.fill(dp , -1);
-        return solve(n , dp);
+        Arrays.fill(dp, -1);
+        return solve(0, n, dp);
     }
-    public int solve(int i , int[] dp){
-       if(i <= 1){
-          return 1;
-       }
 
-       if(dp[i] != -1){
-         return dp[i];
-       }
+    int solve(int curr, int n, int[] dp) {
+        if (curr == n) return 1; 
+        if (curr > n) return 0;  
 
-       return dp[i] = solve(i-1 , dp) + solve(i-2 , dp );
+        if (dp[curr] != -1) return dp[curr];
+
+        return dp[curr] =
+                solve(curr + 1, n, dp) +
+                solve(curr + 2, n, dp);
     }
 }
