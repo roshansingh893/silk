@@ -1,40 +1,41 @@
 class Solution {
-
     public int coinChange(int[] coins, int amount) {
+       
+        int n = coins.length;
 
-        int[][] dp = new int[coins.length][amount + 1];
+        int[][] dp = new int[n][amount + 1];
 
-        for (int[] row : dp) {
+        for(int[] row : dp) {
             Arrays.fill(row, -1);
         }
 
-        int ans = solve(0, amount, coins, dp);
+        int ans = solve(0, amount,  dp , coins);
 
-        return ans >= 1000000000 ? -1 : ans;
+      return ans >= 100000 ? -1 : ans;
     }
 
-    private int solve(int i, int amount, int[] coins, int[][] dp) {
+    // dp state is ith idx with this much amount left;
 
-        if (amount == 0) {
+    public int solve(int i , int amount , int[][] dp , int[] coins){
+        if(amount == 0){
             return 0;
         }
-
-        if (i == coins.length) {
-            return 1000000000;
-        }
-
-        if (dp[i][amount] != -1) {
+if(i == coins.length){
+    return 1000000; // impossible
+}
+        if(dp[i][amount] != -1){
             return dp[i][amount];
         }
+        int take = 100000;
 
-        int take = 1000000000;
+      if( coins[i] <= amount){
+          take = 1 + solve(i , amount - coins[i] , dp , coins);
+      }
 
-        if (coins[i] <= amount) {
-            take = 1 + solve(i, amount - coins[i], coins, dp);
-        }
+     int not = solve(i + 1 , amount , dp , coins);
 
-        int notTake = solve(i + 1, amount, coins, dp);
-
-        return dp[i][amount] = Math.min(take, notTake);
+      return dp[i][amount] = Math.min(take , not);
     }
+
+    
 }
