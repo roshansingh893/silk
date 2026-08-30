@@ -1,29 +1,31 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-          int n = nums.length;
-          int[] dp = new int[n];
-          Arrays.fill(dp , -1);
-          int max = 0;
+         // -> this is patience sorting approach 
+         // tails integer 
+        List<Integer> tails = new ArrayList<>();
 
-          for(int i = 0; i < n; i++){
-             max = Math.max(max , solve(i , dp ,nums));
-          }
+        for (int num : nums) {
 
-          return max;
-    }
+            int left = 0;
+            int right = tails.size();
 
-    public int solve(int i , int[] dp , int[] nums){
-       //    if(i == nums.length) return 0;
+            while (left < right) {
+                int mid = left + (right - left) / 2;
 
-           if(dp[i] != -1) return dp[i];
+                if (tails.get(mid) < num) {
+                    left = mid + 1;
+                } else {
+                    right = mid;
+                }
+            }
 
-           int lis = 1;
+            if (left == tails.size()) {
+                tails.add(num);
+            } else {
+                tails.set(left, num);
+            }
+        }
 
-           for(int j = i + 1; j < nums.length; j++){
-              if(nums[j] > nums[i]) {
-               lis = Math.max(lis , 1 + solve(j , dp , nums));
-               }
-           }
-       return dp[i] = lis;
+        return tails.size();
     }
 }
