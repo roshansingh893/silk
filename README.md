@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshansingh893/silk/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshansingh893/silk/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/roshansingh893/silk/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/roshansingh893/silk/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshansingh893/silk/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/roshansingh893/silk/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/roshansingh893/silk/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/roshansingh893/silk/tree/main/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/roshansingh893/silk/tree/main/0179-largest-number/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshansingh893/silk/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0409-longest-palindrome](https://github.com/roshansingh893/silk/tree/main/0409-longest-palindrome/) | Easy |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/roshansingh893/silk/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/roshansingh893/silk/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/roshansingh893/silk/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/roshansingh893/silk/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/roshansingh893/silk/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/roshansingh893/silk/tree/main/0202-happy-number/) | Easy |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/roshansingh893/silk/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/roshansingh893/silk/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/roshansingh893/silk/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/roshansingh893/silk/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/roshansingh893/silk/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/roshansingh893/silk/tree/main/0213-house-robber-ii/) | Medium |
@@ -591,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/roshansingh893/silk/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/roshansingh893/silk/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/roshansingh893/silk/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
@@ -648,4 +653,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/roshansingh893/silk/tree/main/1025-divisor-game/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/roshansingh893/silk/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
